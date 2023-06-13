@@ -1,0 +1,1 @@
+export const CREATE_PAGE_PATH = '/create';
